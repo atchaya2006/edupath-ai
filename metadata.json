@@ -1,0 +1,6 @@
+{
+  "name": "EduPath AI",
+  "description": "Your Skills. Your Goals. Your Personalized Learning Journey. An adaptive AI career learning and skill-gap agent that analyzes skills, identifies gaps for a target career, creates personalized roadmaps, and continuously adapts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
